@@ -1,5 +1,7 @@
 ## Instructions for the assignment
 
+[![License: GPL v3](https://img.shields.io/badge/License-GPLv3-blue.svg)](https://www.gnu.org/licenses/gpl-3.0)
+
 [![Scala CI](https://github.com/conorheffron/shoppingcart-scala/actions/workflows/scala.yml/badge.svg)](https://github.com/conorheffron/shoppingcart-scala/actions/workflows/scala.yml)
 
 [![SonarQube](https://github.com/conorheffron/shoppingcart-scala/actions/workflows/sonar.yml/badge.svg)](https://github.com/conorheffron/shoppingcart-scala/actions/workflows/sonar.yml)
