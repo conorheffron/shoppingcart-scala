@@ -42,5 +42,7 @@ jobs:
             sbt coverage test coverageReport
         - name: SonarQube Scan
           uses: SonarSource/sonarqube-scan-action@v8
+          with:
+             skipSignatureVerification: true
           env:
             SONAR_TOKEN: ${{ secrets.SONAR_TOKEN }}
